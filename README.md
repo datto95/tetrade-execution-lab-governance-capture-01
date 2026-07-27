@@ -18,6 +18,13 @@ This lab demonstrates governance capture via repeated voting with the same stake
 - test/GovernanceCaptureExploit.t.sol: exploit, fix, negative control, and fuzz tests.
 - scripts/generate_evidence.py: reproducible JSON evidence generation and schema check.
 
+## Didactic docs
+
+- `docs/GUIA_ALUNO.md`
+- `docs/GUIA_INSTRUTOR.md`
+- `docs/CHECKLIST_AUDITORIA.md`
+- `docs/ROTEIRO.md`
+
 ## Prerequisites
 
 - Foundry installed (forge --version)
